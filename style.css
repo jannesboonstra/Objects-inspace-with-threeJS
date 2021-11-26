@@ -1,0 +1,19 @@
+
+body {
+  overflow-y: scroll;
+  max-height: 100vh;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+main {
+  position: absolute;
+  height: 600%;
+  width: 100%;
+  left: 0;
+  top:0;
+}
